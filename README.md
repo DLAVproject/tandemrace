@@ -12,7 +12,7 @@ Group members:
 
 Online (Real-time) Action Recognition Repos:
 
-1) https://github.com/LZQthePlane/Online-Realtime-Action-Recognition-based-on-OpenPose
- Includes action recognition and ID-tracking (using DeepSort - YOLO). Check the 'Acknowledge' section at the end)
+1) https://github.com/LZQthePlane/Online-Realtime-Action-Recognition-based-on-OpenPose 
+   Includes action recognition and ID-tracking (using DeepSort - YOLO). Check the 'Acknowledge' section at the end)
 
 2) https://github.com/ChengeYang/Human-Pose-Estimation-Benchmarking-and-Action-Recognition
