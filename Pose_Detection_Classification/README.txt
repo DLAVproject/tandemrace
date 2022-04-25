@@ -1,7 +1,7 @@
 Models that are ready:
 
 # detecting multiple people using YOLO + Detect&Classifaction using Mediapipe
-Yolo_Implementation_with_MoveNet/MoveNet_Yolo_Classification.ipynb
+YoloMoveNet/MoveNetYolo.ipynb
 
 # detecting multiple people using YOLO  + Detection&Classification using Mediapipe
 MediapipeSinglePerson/MediaPipeImplementation_SinglePerson.ipynb
